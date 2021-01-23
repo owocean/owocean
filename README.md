@@ -6,7 +6,6 @@
  ▀█▄▀▪ ▀▀▀▀ ▀▪ ▀█▄▀▪·▀▀▀  ▀▀▀  ▀  ▀ ▀▀ █▪
 </pre>
 
-thee seapunk man  
 I go by many names, but you can call me ocean.
 
 Fingerprint: 2F43 AA51 5B12 67B2 D345 D343 132C 9D90 A96B 64F6
@@ -19,5 +18,7 @@ Fingerprint: 2F43 AA51 5B12 67B2 D345 D343 132C 9D90 A96B 64F6
 
 All time profile stalkers:  
 ![Hits](https://profile-counter.glitch.me/owocean/count.svg)
+
+[![owocean's github stats](https://github-readme-stats.vercel.app/api?username=owocean&count_private=true&show_icons=true&theme=nightowl)](https://github.com/owocean/)
 
 </div>
