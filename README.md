@@ -13,7 +13,3 @@ I go by many names, but you can call me ocean.
 [contact me here](https://seapunk.xyz)
 
 [![owocean's github stats](https://github-readme-stats.vercel.app/api?username=owocean&count_private=true&show_icons=true&theme=nightowl)](https://github.com/owocean/)
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/293196245974122497
-                            )](https://discord.com/users/293196245974122497)
-</div>
