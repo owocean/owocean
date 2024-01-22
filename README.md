@@ -1,1 +1,1 @@
-i moved to [sourcehut](https://sr.ht/~owocean/)
+i moved to [sourcehut](https://git.sr.ht/~owocean/)
