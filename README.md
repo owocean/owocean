@@ -1,1 +1,1 @@
-i moved to [sourcehut](https://git.sr.ht/~owocean/)
+i moved to [git.vixen.computer](https://git.vixen.computer/cpnk)
